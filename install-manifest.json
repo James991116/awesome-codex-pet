@@ -2529,6 +2529,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "aventurine-plush-bird--legeling": {
+      "name": "砂金毛绒鸟",
+      "localizedNames": { "en": "Aventurine Plush Bird", "zh": "砂金毛绒鸟" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "b41c55241c4fa66effff83c59c639fb0bf13a9880ebf1f429280bab77174b9bb",
+      "petJsonBytes": 256,
+      "spritesheetSha256": "120162349edbc47e250773c4ef635638416c3f61c37740a55b0cf17b15e31ec0",
+      "spritesheetBytes": 2709912,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "nezuko-kamado--wangfan002": {
       "name": "祢豆子 Q版 丰富动作",
       "localizedNames": { "en": "Nezuko Kamado", "zh": "灶门祢豆子" },

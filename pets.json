@@ -3028,6 +3028,20 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "aventurine-plush-bird--legeling",
+    "name": "砂金毛绒鸟",
+    "localized_names": { "en": "Aventurine Plush Bird", "zh": "砂金毛绒鸟" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Game Characters",
+    "canonical_key": "community-request/aventurine-plush-bird",
+    "collections": ["honkai-star-rail"],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A round Aventurine-inspired plush bird with golden glasses and a teal feather crest.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "nezuko-kamado--wangfan002",
     "name": "祢豆子 Q版 丰富动作",
     "localized_names": { "en": "Nezuko Kamado", "zh": "灶门祢豆子" },

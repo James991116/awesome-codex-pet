@@ -12,7 +12,7 @@
 
 <a href="https://codexpet.top/ja"><img src="../../assets/cover/awesome-codex-pet-cover.png" alt="Awesome Codex Pet ギャラリーを開く"></a>
 
-![pets: 258](https://img.shields.io/badge/pets-258-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
+![pets: 259](https://img.shields.io/badge/pets-259-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
 
 </div>
 
@@ -69,7 +69,7 @@ npx @legeling/codex-pet
 </table>
 
 <details>
-<summary>全ペット一覧（テキストのみ） · 258</summary>
+<summary>全ペット一覧（テキストのみ） · 259</summary>
 
 ### ゲームキャラクター
 
@@ -135,6 +135,7 @@ npx @legeling/codex-pet
 <li><a href="../../pets/lin-pianpian-courtesan--legeling">林翩翩（花魁）</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/shen-xinghui--legeling">沈星回</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/chillet--legeling">疾旋鼬</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
+<li><a href="../../pets/aventurine-plush-bird--legeling">砂金毛绒鸟</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/arona--legeling">阿罗那</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/youmu--ai-generated">魂魄妖梦</a> · 作者 @ai-generated · v2</li>
 </ul>
