@@ -3258,6 +3258,20 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "dont-starve-pigman--legeling",
+    "name": "饥荒猪人",
+    "localized_names": { "en": "Don't Starve Pigman", "zh": "饥荒猪人" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Others",
+    "canonical_key": "community-request/dont-starve-pigman",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A friendly Pigman companion inspired by Don’t Starve Together.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "youmu--ai-generated",
     "name": "魂魄妖梦",
     "author": "AI 生成（Gemini）",
