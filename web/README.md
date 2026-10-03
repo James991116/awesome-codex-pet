@@ -90,6 +90,7 @@ npx wrangler pages deploy out --project-name=awesome-codex-pet
 - **Community pages**: Static contributor profiles, rankings, `/requests`, and `/requests/<issue-number>` request details are generated at build time
 - **Request queue**: `/requests` defaults to unfinished requests: the GitHub issue must be open and its status must not be completed or declined. Clearing filters restores this default. Completed requests remain available through the status filter and their detail links.
 - **Request status wording**: GitHub's initial `status: triage` label appears as “Awaiting production” / “待制作”. It represents a request waiting for a community maker, not an asset awaiting review.
+- **Request form defaults**: “Not provided” and “Let the community maker decide.” follow the selected language in cards and details. Requester-written text remains unchanged.
 - **Request updates**: Closing or reopening a request triggers `Sync request catalog`, which refreshes `requests.json` and dispatches the website deployment when the snapshot changes. The public status updates after that deployment completes; it does not wait for the six-hour scheduled refresh.
 - **Hosting**: Cloudflare Pages (global CDN, free tier)
 - **Stats reads**: deployment-time `public/stats.json`, served as a free Pages static asset; rankings do not poll the Worker
