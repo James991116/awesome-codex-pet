@@ -1,15 +1,29 @@
 import type { Locale } from "@/lib/i18n";
-import type { RequestStatus } from "@/lib/request-catalog";
+import type { PetRequest, RequestStatus } from "@/lib/request-catalog";
+
+export function isOpenRequest(request: Pick<PetRequest, "state" | "status">) {
+  return (
+    request.state === "open" &&
+    request.status !== "completed" &&
+    request.status !== "declined"
+  );
+}
 
 const statusLabels: Record<RequestStatus, Record<Locale, string>> = {
   triage: {
-    en: "Under review",
-    zh: "待审核",
-    ko: "검토 대기",
-    ja: "確認中",
-    es: "En revisión",
+    en: "Awaiting production",
+    zh: "待制作",
+    ko: "제작 대기",
+    ja: "制作待ち",
+    es: "Pendiente de producción",
   },
-  open: { en: "Open", zh: "待认领", ko: "모집 중", ja: "募集中", es: "Abierta" },
+  open: {
+    en: "Open",
+    zh: "待认领",
+    ko: "모집 중",
+    ja: "募集中",
+    es: "Abierta",
+  },
   "in-progress": {
     en: "In production",
     zh: "制作中",
