@@ -3070,7 +3070,7 @@
     "canonical_key": "community-request/115",
     "collections": [],
     "license": "CC BY-NC 4.0 for this AI-generated sprite asset; non-commercial use only. Commercial use is prohibited. Rights in the depicted person's identity and supplied reference photograph remain with their respective rights holders.",
-    "description": "An AI-generated miniature avatar based on the reference supplied with request #115. This is a sprite-only package; the requested desktop interaction and voice features remain unresolved.",
+    "description": "An AI-generated miniature avatar based on the reference supplied with request #115, with nine animation states and sixteen look directions. The accepted scope is the V2 sprite package; custom desktop interaction and voice features are outside this delivery.",
     "spriteVersionNumber": 2
   },
   {
