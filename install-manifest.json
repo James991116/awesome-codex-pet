@@ -527,6 +527,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "elber--legeling": {
+      "name": "ELBER",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "12d03dc2680415b27065d346eb00db454137771f1e1e0ae1ab1c9157b106d51d",
+      "petJsonBytes": 276,
+      "spritesheetSha256": "a40c86cd25c57c407082544048cc16e1fe9c9e755f42a161228fd752509e1754",
+      "spritesheetBytes": 1280192,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "ella-wave--sehjk": {
       "name": "Ella Wave",
       "spriteVersionNumber": 1,
@@ -580,6 +590,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "flying-hamster-unicorn--legeling": {
+      "name": "Flying Hamster Unicorn",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "8b96df973361d064333cc8214667ff42e98e4ba562119b6f42550866dd5f85fd",
+      "petJsonBytes": 246,
+      "spritesheetSha256": "502af8ab0b9c2b7adef7db2119001ffab31bb5d7435fdd87937969ff2f1c9892",
+      "spritesheetBytes": 2641552,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "frankie--aygunvarol": {
       "name": "Frankie",
       "spriteVersionNumber": 1,
@@ -611,6 +631,16 @@
       "spritesheetBytes": 1932404,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
+    },
+    "fushi--legeling": {
+      "name": "Fushi",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "e0524b405fcca3dbe845e5cebb8293e8998b886f6aa31ec0e0f9d3de37a4f22b",
+      "petJsonBytes": 232,
+      "spritesheetSha256": "8bf03000c07232eee596e479c0fcadff559eee8d104d05876e59c4b41f2fda52",
+      "spritesheetBytes": 2044700,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
     },
     "ganyu--chenxin-dlut": {
       "name": "Ganyu",
@@ -1137,6 +1167,17 @@
       "petJsonBytes": 215,
       "spritesheetSha256": "5842270ef211d339265f1eec88c406573c7f3f31a308d55bbd243253d7bdc7e0",
       "spritesheetBytes": 1480622,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
+    "maya-fey--kbz1121": {
+      "name": "Maya Fey",
+      "localizedNames": { "en": "Maya Fey", "zh": "绫里真宵" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "d12a726d11be335c6db3e259f7cb42e2026f2293a79b2c4886022ccf610c6369",
+      "petJsonBytes": 241,
+      "spritesheetSha256": "0426cb2762dd823f8c8cd5cc4c2c35cb24e0d7abe751122c8d1317fbe68b45f5",
+      "spritesheetBytes": 1872906,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
@@ -2079,6 +2120,26 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "kalandra-mirror--legeling": {
+      "name": "卡兰德的魔镜",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "4d4783eebe47636c85aa1fa7290385361fa0d9dce5156b5e3db72cfba266e7f0",
+      "petJsonBytes": 289,
+      "spritesheetSha256": "ae50b87a0464944a49e641e82ee93d7a15e6aa8600f39a005ded6aff19ddcba0",
+      "spritesheetBytes": 1525084,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
+    "dingding-devil--legeling": {
+      "name": "叮叮恶魔",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "dd1d14f0288a61b15e43dc63c8043dd33cf4a6a5f4bff616197bdac44064cbf5",
+      "petJsonBytes": 248,
+      "spritesheetSha256": "c056deabb3db11517219e85afacc3998f557695a64386d36de592fd974c9a0da",
+      "spritesheetBytes": 2318480,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "ye-shunguang-bangboo--huanghan": {
       "name": "叶瞬光邦布",
       "spriteVersionNumber": 2,
@@ -2129,6 +2190,16 @@
       "spritesheetBytes": 2487140,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
+    },
+    "kita-ikuyo--legeling": {
+      "name": "喜多郁代",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "2a824d60e491709e570613a53b50684d5f857f9765ce6ccf6465c94bfa624700",
+      "petJsonBytes": 253,
+      "spritesheetSha256": "2ab4c0820ff034b74a7f2e550134175e8a884d8a63974cb08596a34e7f469ac4",
+      "spritesheetBytes": 1911010,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
     },
     "lumei--legeling": {
       "name": "噜妹",
@@ -2443,6 +2514,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "tushan-susu--legeling": {
+      "name": "涂山苏苏",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "36b737302ec1f220908402516ebfee2137ba9d279ff31450bea64678ef898ab1",
+      "petJsonBytes": 268,
+      "spritesheetSha256": "3e3f62c8417cd1f6e41eeaf0e2cc25d166613815dfd29917c64d1d6cd6d0246e",
+      "spritesheetBytes": 2800948,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "tanjiro-kamado--wangfan002": {
       "name": "炭治郎 Q版 丰富动作",
       "localizedNames": { "en": "Tanjiro Kamado", "zh": "灶门炭治郎" },
@@ -2462,6 +2543,16 @@
       "petJsonBytes": 398,
       "spritesheetSha256": "83bc5c21e09f7d592157028692fcbf84e70222d5b789c85e0e3c175aa19ccca4",
       "spritesheetBytes": 2232410,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
+    "aimisi--legeling": {
+      "name": "爱弥斯",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "db8eafa0b50cf0114f48a71fa7b17c547f0a011f703e89be3b4e76a5c3a8fae9",
+      "petJsonBytes": 259,
+      "spritesheetSha256": "eec5c8af36c9a4a521ec52d5c383e898fc772e7bc8d7e3a46b63015392a1825c",
+      "spritesheetBytes": 2884200,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
@@ -2571,6 +2662,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "meituan-kangaroo--xiaoyu0103": {
+      "name": "美团袋鼠",
+      "localizedNames": { "en": "Meituan Kangaroo", "zh": "美团袋鼠" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "c3115a2b65dc4240fc5f3b8d285e12e7ce53e89d57cc5bf4fc7467d6af83341d",
+      "petJsonBytes": 288,
+      "spritesheetSha256": "0129d13f6bb3bafa2fc48e0cc68a4030e7ee6b8cb7b2fc1cd1b51c9abbb7cdbd",
+      "spritesheetBytes": 1064336,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "xiang-an--legeling": {
       "name": "翔安",
       "spriteVersionNumber": 2,
@@ -2588,6 +2690,17 @@
       "petJsonBytes": 219,
       "spritesheetSha256": "eb819e188df3efc8dc7c0ac11d6533fb01cfe869a56a80835fd44fc6882517d5",
       "spritesheetBytes": 2547270,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
+    "rourou--zhou-jianwen": {
+      "name": "肉肉",
+      "localizedNames": { "en": "Rourou", "zh": "肉肉" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "5e49598ad7917d2f2c0a5770f726c6d777fbf29394fe86464e68858de9b6151c",
+      "petJsonBytes": 285,
+      "spritesheetSha256": "07c354726db9973ad4054ef5a97d45edf728279c5e53015e1d23f1b6eb8daf17",
+      "spritesheetBytes": 2702588,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
@@ -2654,6 +2767,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "beatrice--legeling": {
+      "name": "贝阿朵莉丝",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "30e0aac8a21eae0d7d5d1ff6f661a932afe29ab18fb7a094edf9ddfc7b8182a2",
+      "petJsonBytes": 268,
+      "spritesheetSha256": "c0be381d32a8f7c9b5559a4b3af210b4b2727ffff18edbf7f1ebba27d4e9a660",
+      "spritesheetBytes": 3185490,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "bond-forger--legeling": {
       "name": "邦德·福杰",
       "localizedNames": { "en": "Bond Forger", "zh": "邦德·福杰" },
@@ -2682,6 +2805,26 @@
       "petJsonBytes": 265,
       "spritesheetSha256": "7b36138bcd6e3b1b6f5fb1c4783ffe26d3f9a76c71693a31f9fe1f2d9675f559",
       "spritesheetBytes": 2692738,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
+    "shanshenbu--logan": {
+      "name": "閃身步",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "18cca66b965b798f91162a669b4fbcdcff035822344408fcc5269518eacd74dd",
+      "petJsonBytes": 267,
+      "spritesheetSha256": "4c6a2272eddc76888efd863e283fb7850bbff76a3ff8a56670ac85eed2386ff7",
+      "spritesheetBytes": 1446904,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
+    "alphonse--legeling": {
+      "name": "阿尔冯斯",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "b4be9baacb4c1e1d9214e00b53912aca1ea8b24b59b48fc8d8775ac90d3a8802",
+      "petJsonBytes": 271,
+      "spritesheetSha256": "087afc34e5db292149d6ed2bfdef93ef7618cf88c1866517422c9c82e201abdc",
+      "spritesheetBytes": 2736600,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },

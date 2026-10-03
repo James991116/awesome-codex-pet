@@ -620,6 +620,19 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "elber--legeling",
+    "name": "ELBER",
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Robots",
+    "canonical_key": "lights-are-off/elber",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A curious spindly experimental robot with a pale oval head, enormous black eyes, a toothy grin and exposed articulated mechanisms. Includes nine standard animations and 16 clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "ella-wave--sehjk",
     "name": "Ella Wave",
     "author": "sehjk",
@@ -685,6 +698,19 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "flying-hamster-unicorn--legeling",
+    "name": "Flying Hamster Unicorn",
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Fantasy Creatures",
+    "canonical_key": "fantasy/flying-hamster-unicorn",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A cheerful pink flying hamster with a tiny unicorn horn and wings. Includes nine standard animations and 16 clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "frankie--aygunvarol",
     "name": "Frankie",
     "author": "Aygun Varol",
@@ -719,6 +745,19 @@
     "license": "CC BY-NC 4.0",
     "description": "A Furina-inspired fan-art Codex pet with a blue-white top hat, theatrical Fontaine styling, and a playful chibi sprite identity.",
     "spriteVersionNumber": 1
+  },
+  {
+    "slug": "fushi--legeling",
+    "name": "Fushi",
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Anime Characters",
+    "canonical_key": "cosmic-princess-kaguya/fushi",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A cheerful white bunny sea-slug mascot with charcoal ears, gray spots and rosy cheeks. Includes nine standard animations and 16 clockwise look directions.",
+    "spriteVersionNumber": 2
   },
   {
     "slug": "ganyu--chenxin-dlut",
@@ -1353,6 +1392,17 @@
     "collections": ["touhou-project"],
     "license": "Non-commercial use only.",
     "description": "Marisa Kirisame from Touhou Project, with her black witch hat, white bow, blonde braid, and black-and-white outfit. AI-generated fan art assembled and refined by eigentom using Codex, including local frame compositing and alignment. Character belongs to ZUN / Team Shanghai Alice. Non-commercial use only.",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "maya-fey--kbz1121",
+    "name": "Maya Fey",
+    "localized_names": { "en": "Maya Fey", "zh": "绫里真宵" },
+    "author": "kbz1121",
+    "primary_category": "Game Characters",
+    "canonical_key": "ace-attorney/maya-fey",
+    "collections": [],
+    "license": "非商业用途；未经 Capcom 授权的同人作品。绫里真宵及《逆转裁判》相关角色和作品权利归其权利人所有。本投稿仅提供 AI 生成的桌宠图集，不包含官方设定图或参考素材。",
     "spriteVersionNumber": 2
   },
   {
@@ -2482,6 +2532,32 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "kalandra-mirror--legeling",
+    "name": "卡兰德的魔镜",
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Objects & Props",
+    "canonical_key": "path-of-exile/kalandra-mirror",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A hovering dark-fantasy hand mirror with an ornate silver frame, pointed crest, carved handle and cool reflective glass. Includes nine standard animations and 16 clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "dingding-devil--legeling",
+    "name": "叮叮恶魔",
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Game Characters",
+    "canonical_key": "roco-kingdom/dingding-devil",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A mischievous floating little devil with golden claws, orange ruff and tiny bat wings. Includes nine standard animations and 16 clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "ye-shunguang-bangboo--huanghan",
     "name": "叶瞬光邦布",
     "author": "huanghan",
@@ -2539,6 +2615,19 @@
     "collections": ["demon-slayer"],
     "license": "Source author terms; personal non-commercial use only",
     "spriteVersionNumber": 1
+  },
+  {
+    "slug": "kita-ikuyo--legeling",
+    "name": "喜多郁代",
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Anime Characters",
+    "canonical_key": "bocchi-the-rock/kita-ikuyo",
+    "collections": ["bocchi-the-rock"],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "An upbeat chibi red-haired girl in a black and white frilled maid outfit with a cheerful smile. Includes nine standard animations and 16 clockwise look directions.",
+    "spriteVersionNumber": 2
   },
   {
     "slug": "lumei--legeling",
@@ -2921,6 +3010,19 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "tushan-susu--legeling",
+    "name": "涂山苏苏",
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Anime Characters",
+    "canonical_key": "fox-spirit-matchmaker/tushan-susu",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A sweet chibi fox girl with golden hair and eyes, fluffy fox ears and tail, pink-white robes and red ribbons. Includes nine standard animations and 16 clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "tanjiro-kamado--wangfan002",
     "name": "炭治郎 Q版 丰富动作",
     "localized_names": { "en": "Tanjiro Kamado", "zh": "灶门炭治郎" },
@@ -2943,6 +3045,19 @@
     "collections": [],
     "license": "Non-commercial use only. Independently AI-assisted fan-art interpretation; not affiliated with or endorsed by any rights holder.",
     "description": "An original chibi fan-art interpretation of 焰灵姬, created in response to request #123; flowing black hair, a black-and-ember-orange gown, graceful restrained motion, and a complete 16-direction look loop.",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "aimisi--legeling",
+    "name": "爱弥斯",
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Game Characters",
+    "canonical_key": "wuthering-waves/aimisi",
+    "collections": ["wuthering-waves"],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A hopeful floating pink-haired girl with golden eyes, white futuristic clothing and icy blue ribbon accents. Includes nine standard animations and 16 clockwise look directions.",
     "spriteVersionNumber": 2
   },
   {
@@ -3079,6 +3194,20 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "meituan-kangaroo--xiaoyu0103",
+    "name": "美团袋鼠",
+    "localized_names": { "en": "Meituan Kangaroo", "zh": "美团袋鼠" },
+    "author": "xiaoYu0103",
+    "author_handle": "xiaoYu0103",
+    "author_url": "https://github.com/xiaoYu0103",
+    "primary_category": "Mascots",
+    "canonical_key": "meituan/kangaroo",
+    "collections": [],
+    "license": "Non-commercial use only. Independently AI-generated fan art inspired by the Meituan kangaroo mascot; the original mascot design and trademarks remain with Meituan.",
+    "description": "An independently AI-generated yellow flocked kangaroo mascot with nine task animations and 16 look directions; its working animation howls at the sky.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "xiang-an--legeling",
     "name": "翔安",
     "author": "legeling",
@@ -3101,6 +3230,19 @@
     "collections": [],
     "license": "CC BY 4.0",
     "description": "一只圆头飞机耳、粉鼻眯眼，凶萌又倔强的橘白猫。",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "rourou--zhou-jianwen",
+    "name": "肉肉",
+    "localized_names": { "en": "Rourou", "zh": "肉肉" },
+    "author": "zhou-jianwen",
+    "author_handle": "zhou-jianwen",
+    "primary_category": "Others",
+    "canonical_key": "original/request-220/rourou-pug",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. No ownership of or license to the reference photograph is asserted.",
+    "description": "An illustrated v2 interpretation of 肉肉, a round fawn pug with a black mask, dark folded ears, forehead wrinkles, short legs, sleepy eyes, restrained gestures, and 16 look directions.",
     "spriteVersionNumber": 2
   },
   {
@@ -3177,6 +3319,19 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "beatrice--legeling",
+    "name": "贝阿朵莉丝",
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Anime Characters",
+    "canonical_key": "re-zero/beatrice",
+    "collections": ["re-zero"],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A proud chibi girl with blonde spiral twin tails, butterfly-patterned blue eyes and a pink-red frilled dress. Includes nine standard animations and 16 clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "bond-forger--legeling",
     "name": "邦德·福杰",
     "localized_names": { "en": "Bond Forger", "zh": "邦德·福杰" },
@@ -3215,6 +3370,33 @@
     "collections": ["animal-companions"],
     "license": "Non-commercial use only.",
     "description": "一只圆脸绿眼、粉鼻、金灰渐层短毛、体态敦实且尾尖较深的猫咪 Codex 宠物。",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "shanshenbu--logan",
+    "name": "閃身步",
+    "author": "Logan",
+    "author_handle": "iml885203",
+    "author_url": "https://github.com/iml885203",
+    "primary_category": "Memes",
+    "canonical_key": "meme/shanshenbu",
+    "variant_note": "Logan 獨立製作的 Q 版舞蹈老師 V2 修訂版：閃身步採快速側跨出腳與收腳；浪子踢球身體側身朝移動方向、臉朝正面，由微蹲接後勾腳、前踢伸腿、停頓與落腳回收，起手無交叉步；狗熊哆嗦毛包含寬站及交叉腳合掌、整個軀幹失衡側晃與展臂回穩的循環，保留 16 個環視方向。",
+    "collections": [],
+    "license": "僅限非商業使用。Non-commercial use only.",
+    "description": "Q版舞蹈老師：工作時快速側跨閃身步，左右移動時浪子踢球，等待回覆時狗熊哆嗦毛。 最終寵物像素由 AI 獨立生成，由 Logan 製作與適配；原舞蹈影片僅作動作參考，未裁剪、描摹、清晰化或復用影片像素。",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "alphonse--legeling",
+    "name": "阿尔冯斯",
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Anime Characters",
+    "canonical_key": "fullmetal-alchemist/alphonse",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A gentle blue armored guardian cradling a tiny panda, with a pointed helmet, pale eyes and a trailing white tassel. Includes nine standard animations and 16 clockwise look directions.",
     "spriteVersionNumber": 2
   },
   {
