@@ -866,6 +866,19 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "golden-lamp--legeling",
+    "name": "Golden Lamp",
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Others",
+    "canonical_key": "community-request/149",
+    "collections": [],
+    "license": "CC BY-NC 4.0. Non-commercial use only; commercial use is prohibited. Rights in the requester-supplied reference image and any depicted or referenced characters remain with their respective rights holders. This is an unofficial AI-generated community interpretation.",
+    "description": "An AI-generated golden-lamp sprite based on the reference supplied in request #149. Sprite-only lamp interpretation; the intended request subject and remaining request scope are unresolved pending requester confirmation.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "gpt-muse--opask",
     "name": "GPT-muse",
     "author": "opask",
@@ -3032,6 +3045,19 @@
     "collections": ["arknights"],
     "license": "Personal non-commercial fan use",
     "spriteVersionNumber": 1
+  },
+  {
+    "slug": "xuxu-baobao--legeling",
+    "name": "旭旭宝宝",
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Human Avatars",
+    "canonical_key": "community-request/115",
+    "collections": [],
+    "license": "CC BY-NC 4.0 for this AI-generated sprite asset; non-commercial use only. Commercial use is prohibited. Rights in the depicted person's identity and supplied reference photograph remain with their respective rights holders.",
+    "description": "An AI-generated miniature avatar based on the reference supplied with request #115. This is a sprite-only package; the requested desktop interaction and voice features remain unresolved.",
+    "spriteVersionNumber": 2
   },
   {
     "slug": "hance-woniu--korn",

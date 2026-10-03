@@ -726,6 +726,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "golden-lamp--legeling": {
+      "name": "Golden Lamp",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "730f442a6dc4797ca3d5b4438c29f7e3f29fa0e2d8b6c526b749a3840e2815f5",
+      "petJsonBytes": 378,
+      "spritesheetSha256": "bad38befd0eaccf0ce9f96adfc08eced1a1cd9d865317dffbdc40efb51539024",
+      "spritesheetBytes": 1181226,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "gpt-muse--opask": {
       "name": "GPT-muse",
       "spriteVersionNumber": 1,
@@ -2527,6 +2537,16 @@
       "spritesheetBytes": 2047694,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
+    },
+    "xuxu-baobao--legeling": {
+      "name": "旭旭宝宝",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "3f5e2b32f422d86b655c3c40c535abcd5ae6c72cace737031c4170e99b79c2f6",
+      "petJsonBytes": 345,
+      "spritesheetSha256": "fee42cb0b3a51735520ba506534b9c78583eea7ac2948fd48332c220806ee9a0",
+      "spritesheetBytes": 1099506,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
     },
     "hance-woniu--korn": {
       "name": "旱厕蜗牛",
