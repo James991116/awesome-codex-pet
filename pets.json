@@ -2866,6 +2866,20 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "vyron--legeling",
+    "name": "威龙",
+    "localized_names": { "en": "Vyron", "zh": "威龙" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Others",
+    "canonical_key": "delta-force/vyron",
+    "collections": [],
+    "license": "CC BY-NC 4.0",
+    "description": "An AI-generated, weapon-free community interpretation of Vyron from Delta Force, based on the Issue #234 reference. The specific game skin is unverified.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "giyu-tomioka--wangfan002",
     "name": "富冈义勇 Q版 丰富动作",
     "localized_names": { "en": "Giyu Tomioka", "zh": "富冈义勇" },

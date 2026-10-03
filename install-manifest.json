@@ -2389,6 +2389,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "vyron--legeling": {
+      "name": "威龙",
+      "localizedNames": { "en": "Vyron", "zh": "威龙" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "95cd1de8ec196ca8e6d9f4d2fa7b019ca9d55dfc7bd1af7aea03818de735c07e",
+      "petJsonBytes": 300,
+      "spritesheetSha256": "47d2430a4b59e3bac88ee9bb2a5912a14c8be077e7908db0244c34583683b8a7",
+      "spritesheetBytes": 2128982,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "giyu-tomioka--wangfan002": {
       "name": "富冈义勇 Q版 丰富动作",
       "localizedNames": { "en": "Giyu Tomioka", "zh": "富冈义勇" },
