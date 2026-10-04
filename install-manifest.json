@@ -589,6 +589,20 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "evanescia-lunar-blossoming--jasdfgh": {
+      "name": "Evanescia · Lunar Blossoming",
+      "localizedNames": {
+        "en": "Evanescia · Lunar Blossoming",
+        "zh": "绯英 · 月待花时"
+      },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "b0e3436be92e66164e2cca9e8ea4065e286aad39aab1cebc2950f4cbcabdacdc",
+      "petJsonBytes": 347,
+      "spritesheetSha256": "b3ffe93e45b846fce1559471f66cb5328994ea6a4c7f72fbb0cc91914a68a072",
+      "spritesheetBytes": 1825044,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "fang-yuan--kelleszzz": {
       "name": "Fang Yuan",
       "localizedNames": { "en": "Fang Yuan", "zh": "方源" },
@@ -2683,6 +2697,20 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "paimon-best-companion--makashibata": {
+      "name": "派蒙-最好的伙伴",
+      "localizedNames": {
+        "en": "Paimon - Bestest Companion",
+        "zh": "派蒙-最好的伙伴"
+      },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "f4b01225259610572b937ccf5a282d3faf8f010b99cff6b6283a5d40663e01b1",
+      "petJsonBytes": 245,
+      "spritesheetSha256": "30e7557c644fb93574c8276ade8858e228e473214fe75c55f607676ff9655722",
+      "spritesheetBytes": 2324392,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "otama--legeling": {
       "name": "海贼王小玉",
       "spriteVersionNumber": 2,
@@ -2860,6 +2888,17 @@
       "petJsonBytes": 246,
       "spritesheetSha256": "52c8feff0a688e6b18791e452d5eff090823fcaf8306f8f1f8da64e30e15c468",
       "spritesheetBytes": 1605192,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
+    "luo-xiaohei--makashibata": {
+      "name": "罗小黑",
+      "localizedNames": { "en": "Luo Xiaohei", "zh": "罗小黑" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "295baedcab25f4a1fccf69a6a8f66f9228920f609eb8e73e331a7acc6d6ebb26",
+      "petJsonBytes": 213,
+      "spritesheetSha256": "2ea6c34f10b2ea0d6a895867eedf1fabf0ee29b50496ce27662f07d42653688b",
+      "spritesheetBytes": 1618486,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },

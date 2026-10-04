@@ -698,6 +698,23 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "evanescia-lunar-blossoming--jasdfgh",
+    "name": "Evanescia · Lunar Blossoming",
+    "localized_names": {
+      "en": "Evanescia · Lunar Blossoming",
+      "zh": "绯英 · 月待花时"
+    },
+    "author": "Jasdfgh",
+    "author_handle": "Jasdfgh",
+    "author_url": "https://github.com/Jasdfgh",
+    "primary_category": "Game Characters",
+    "canonical_key": "fictional/honkai-star-rail/evanescia",
+    "variant_note": "Independent AI-assisted fan-art edition by Jasdfgh featuring Evanescia's Lunar Blossoming outfit. Compact proportions, a restored right long sleeve, controlled 2D animation, nine task states, and sixteen gaze directions distinguish this independently authored v2 spritesheet.",
+    "collections": ["honkai-star-rail"],
+    "license": "CC BY-NC 4.0 for the submitter's licensable contributions; non-commercial use only. Original Honkai: Star Rail / HoYoverse character, outfit, and other third-party intellectual property are excluded. Unofficial fan art; no official affiliation or endorsement.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "fang-yuan--kelleszzz",
     "name": "Fang Yuan",
     "localized_names": { "en": "Fang Yuan", "zh": "方源" },
@@ -3227,6 +3244,22 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "paimon-best-companion--makashibata",
+    "name": "派蒙-最好的伙伴",
+    "localized_names": {
+      "en": "Paimon - Bestest Companion",
+      "zh": "派蒙-最好的伙伴"
+    },
+    "author": "makashibata",
+    "primary_category": "Game Characters",
+    "canonical_key": "genshin-impact/paimon",
+    "variant_note": "独立 AI 生成并适配的精细 v2 版本，形象参考七圣召唤卡牌《最好的伙伴》，包含左右悬浮飞行及 16 向环视。不同于已有作者的 v1 版本。",
+    "collections": ["genshin-impact"],
+    "license": "仅限非商业使用 / Non-commercial use only.",
+    "description": "白发星披风的小伙伴，陪你一起完成每个任务。",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "otama--legeling",
     "name": "海贼王小玉",
     "author": "legeling",
@@ -3449,6 +3482,19 @@
     "collections": [],
     "license": "CC BY-NC 4.0；仅限非商业使用。非官方 AI 社区诠释作品，不代表或暗示获得相关角色或商标权利方授权。",
     "description": "以 Issue #127 参考形象为灵感独立生成的 Q 版罗小黑 Codex 宠物，包含九组任务动画与完整 16 方向环视动作。",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "luo-xiaohei--makashibata",
+    "name": "罗小黑",
+    "localized_names": { "en": "Luo Xiaohei", "zh": "罗小黑" },
+    "author": "makashibata",
+    "primary_category": "Anime Characters",
+    "canonical_key": "the-legend-of-luo-xiaohei/luo-xiaohei",
+    "variant_note": "独立 AI 生成并适配的精细 v2 版本，参考《罗小黑战记2》电影造型，采用黑发、绿夹克、黑上衣及白色长裤，区别于已有蓝色衣装版本。",
+    "collections": [],
+    "license": "仅限非商业使用 / Non-commercial use only.",
+    "description": "黑发绿眼的小黑，穿着绿夹克陪你工作。",
     "spriteVersionNumber": 2
   },
   {
